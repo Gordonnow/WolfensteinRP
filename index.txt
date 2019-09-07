@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>WW1Alternative/HEIZ.IS</title>
+		<meta charset="utf-8">
+		<link rel="icon" href="/1" type="images/1" />
+		<link rel="shortcut icon" href="/1" type="images/1" />
+		<style>
+			body {background: #474545 url(images/1029.jpg); /* Цвет фона и путь к файлу */color: #fff; /* Цвет текста */}
+		</style>
+	</head>
+	<body>
+	
+	</body>
+</html>
